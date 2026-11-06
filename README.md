@@ -51,6 +51,11 @@ A 2D Flappy Bird game developed using C++, SFML 2.5.1, and Visual Studio 2022.
 
 🔗 [View Repository](https://github.com/Abdullah1211222/Flappy-Bird-Game)
 
+### 🏟️ Arena Management System
+A full-stack web application built using Python, Flask, and SQLite, featuring tournament management, player registration, live matches, match highlights, advertisement management, and analytics.
+
+🔗 [View Repository](https://github.com/Abdullah1211222/Arena-Management-System)
+
 ## 📜 Certifications & Courses
 
 - Business Communication and AI for Professionals — LUMSx
